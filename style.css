@@ -1,0 +1,9 @@
+img {
+    width: 180px;
+} 
+
+.container {
+    display: flex;
+    justify-content: flex-start;
+    
+}
